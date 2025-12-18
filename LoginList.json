@@ -1,3 +1,9 @@
-clientID : #
-Login : ###
-Password : ###
+{
+    "Logins": [
+        {
+            "ID": 0,
+            "Login": "Player123",
+            "Password": "1234a"
+        }
+    ]
+}
